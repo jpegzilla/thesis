@@ -87,3 +87,5 @@ may you find peace, and may the flowers you plant bloom eternally under the sky.
 the idea for this came from [pietro righi riva](https://actofplay.com/)'s *[rejecta](https://actofplay.com/rejecta/)*. it is also inspired by [adryd](https://github.com/adryd325)'s *[ethical web design practices](https://github.com/adryd325/ethical-web-design-practices)*.
 
 *psst...if you have a better name for this document, please don't hesitate to tell me about it.*
+
+*also, if you have suggestions and stuff, maybe make a pr if you want!*
