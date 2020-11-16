@@ -1,4 +1,4 @@
-# a web developer's manifesto
+# a web developer's thesis
 
 * * *
 
