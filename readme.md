@@ -22,7 +22,7 @@ the web is for everyone. if you forget that, you bring disgrace to the web. make
 -   make sure that people who cannot see are able to navigate.
 -   make sure that people not using a pointing device (mouse, finger on mobile) can navigate.
 -   make sure that all images have alt text that describes the image in detail.
--   make sure to create some form graceful degradation in the case that users have disabled javascript.
+-   make sure to create some form of graceful degradation in the case that users have disabled javascript.
 
 ## 3. do not employ dark patterns for your own gain.
 
