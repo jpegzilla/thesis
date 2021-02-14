@@ -2,14 +2,14 @@
 
 * * *
 
-## 1. do not make useless things.
+## 1. do not post useless things.
 
--   do not make todo apps, calculators, notepads, calendars, twitter clones, facebook clones, or any other type of app that has already been perfected thousands of times.
+-   do not post todo apps, calculators, notepads, calendars, twitter clones, facebook clones, or any other type of app that has already been perfected thousands of times.
 -   do not write an app that you would not use yourself.
 -   do not release something that you are not proud of.
 -   do not release something that you do not consider ready to be used.
 
-no one needs things like these. it is disgraceful to create and release something like this, especially if it is presented as something that people are meant to use.
+no one needs things like these. it is disgraceful to create and release something like this, especially if it is presented as something that people are meant to use. don't clutter the web.
 
 if you must release something in an unfinished state, allow yourself to go through the process of running alpha / beta / etc. tests.
 
